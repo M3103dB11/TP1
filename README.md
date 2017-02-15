@@ -13,7 +13,6 @@ hello world, all is clear
  
  ````python
  toto="tata"
-
- i=1````
- 
+ i=1
+ ````
  coucou
