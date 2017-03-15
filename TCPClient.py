@@ -1,7 +1,7 @@
 from socket import *
-serverName = '10.98.2.96'
+serverName = '10.98.2.90'
 serverName2 = '10.98.2.90'
-serverPort = 12000
+serverPort = 12001
 while 1:
 	clientSocket = socket(AF_INET, SOCK_STREAM)
 	clientSocket.connect((serverName,serverPort))
